@@ -100,7 +100,7 @@ Example predictions:
 - Normal Eye
 - Glaucoma Detected
 
-(Add screenshots in the `images/` folder and reference them here)
+
 
 ## Future Improvements
 - Deploy as a web application
@@ -111,5 +111,3 @@ Example predictions:
 ## Author
 **Rithu Nandana**
 
-## License
-This project is for academic and educational purposes.
